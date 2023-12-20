@@ -11,7 +11,7 @@ Note: only one sample can be infered at once. no batch inference. and please let
 Prerequisite: 
 1. Navigate to working directory
 2. create conda env, activate and do pip install -r requirements_vqa.txt
-3. Download trained model from my drive link https://drive.google.com/file/d/12vpo3wsyMv670gkEgpQO2OA7Dwotggcv/view?usp=sharing and place it at snap/vqa/vqa_lx directory
+3. Download trained model from my drive link [https://drive.google.com/file/d/12vpo3wsyMv670gkEgpQO2OA7Dwotggcv/view?usp=sharing](https://drive.google.com/drive/folders/1nrcVww0u_vozcFRQVr58-YH5LOU1ZiWT?usp=drive_link) and place it at snap/vqa/vqa_lx directory
 
 Steps:
 1. Place the sample images you want to test in sample_inference folder
