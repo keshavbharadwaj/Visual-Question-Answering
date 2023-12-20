@@ -1,0 +1,9 @@
+.DS_Stores
+DS_Stores
+*.Zone.Identifier
+snap/
+Zone.Identifier
+__pycache__
+*.pyc
+*.pyo
+data/

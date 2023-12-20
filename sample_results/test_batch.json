@@ -1,0 +1,30 @@
+[
+    {
+        "img_id": "1",
+        "question_id": 1,
+        "sent": "How many people are present?"
+    },
+
+    {
+        "img_id": "2",
+        "question_id": 2,
+        "sent": "What sport are they playing?"
+    },
+    {
+        "img_id": "3",
+        "question_id": 3,
+        "sent": "Is the person standing in front of a car?"
+    },
+
+    {
+        "img_id": "4",
+        "question_id": 4,
+        "sent": "What is on the table?"
+    },
+    {
+        "img_id": "5",
+        "question_id": 5,
+        "sent": "What sport are they playing?"
+    }
+
+]
